@@ -6,3 +6,12 @@ How is the staging area different from the working directory and the repository?
 
 	The staging area allows you to place the files from the working directory before commit the changes and view any differences between the staged document and the commit document. The repository includes the staging area, working directory and commit files. Git Commit and sublime not working so well together...
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+	By using git diff you can see the differences between the working directory and the staging area to ensure the changes represent a logical shange before commit. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	When creating new versions but wanting to maintain the original version as an option. This would allow me to retain the orignal version and allow me to step back to correct any mistakes in the new version. 
+
+	
