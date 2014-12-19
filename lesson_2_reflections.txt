@@ -4,5 +4,5 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-	The repository holds all the files in the staging area creates a place to place files to be tracked when you commit them to the working directory. 
+	The staging area allows you to place the files from the working directory before commit the changes and view any differences between the staged document and the commit document. The repository includes the staging area, working directory and commit files. 
 
