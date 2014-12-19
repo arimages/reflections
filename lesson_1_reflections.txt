@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It allowed me to do a simple stare and compare of the elements that were diffrent between the two files without having to go line by line and try and find it. It saved a lot of time.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It would make it much easier to find where a a mistake was made and correct it, or allow me to retrace my steps if the code is going in the worng direction and find the most appropriate place to restart. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros for manually commit allows you to decide when the most logical times to create another version, which could help minnimize the number of versions and save some confusion. Cons of manually commit if you don't remember to commit often enough you may lose updates which can be very bad.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git version control for coding may have multiple files which are dependent upon each other for the code to work correctly, tracking changes on these files would be very helpful. Google Docs are independent documents which don't rey on each other to function correctly.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Use git log to view the commits in the repository and then use git diff and the committ file number to view the changes between commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I would be very confident as long as I remembered to make commits at the most logical locatons.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    helping me complete my next lesson and project2 
