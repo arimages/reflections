@@ -14,4 +14,15 @@ What are some situations when branches would be helpful in keeping your history 
 
 	When creating new versions but wanting to maintain the original version as an option. This would allow me to retain the orignal version and allow me to step back to correct any mistakes in the new version. 
 
-	
+How do the diagrams help you visualize the branch structure?
+
+	It allows me to see the logical flow of commits relative to the branchs they are on.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	I was unable to merge the branchs because of a merge conflict... But if I did they coin branch would have went away and a new master merge point is created which is shown in the diagram so we know which commits were combined in the merge.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Automatic merging can ensure commits are not left out of branches you wish to combine, this could be bad if there are conflicts which would need to be resolved before losing committed code changes. Manual merges would not have the problem of orphaned branches being left out.
+
